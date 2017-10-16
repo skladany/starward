@@ -1,6 +1,7 @@
 {
     "verbose": false,
     "watch": [
+      "public/assets",
       "app/utils",
       "app/fetch-data",
       "app/client.jsx",
